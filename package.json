@@ -1,0 +1,7 @@
+{
+  "name": "ps_killer",
+  "version": "0.0.1",
+  "dependencies": {
+    "zmq":"onicollet/zmq"
+  }
+}
